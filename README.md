@@ -9,7 +9,7 @@ _04:33, restate my assumptions:_
 
 -------
 
-**note:** this repo has no code. the second design stage for _oveja eléctrica_ was only design (ie: coffee, think, think, write, think, coffee, write, think,...) with no serious coding involved.
+**note:** this repo has no code. the second design stage for _oveja eléctrica_ was only design (ie: coffee, think, think, write, think, coffee, write, think,...) with no serious coding involved.  
 
 
 all documentation, notes, ideas, graphics and sounds are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License:  
