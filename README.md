@@ -5,6 +5,10 @@
 second design stage for _oveja eléctrica_, an ongoing project with the goal of creating an artificial composer.  
 copyright (c) 2003-2017 Santiago Peresón
 
+_04:33, restate my assumptions:_
+
+-------
+
 **note:** this repo has no code. the second design stage for _oveja eléctrica_ was only design (ie: coffee, think, think, write, think, coffee, write, think,...) with no serious coding involved.
 
 
